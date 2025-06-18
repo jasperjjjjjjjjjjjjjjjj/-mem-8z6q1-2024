@@ -1,0 +1,12 @@
+LIMITAÇÕES DO PROJETO
+
+1. Técnicas:
+   - [Exemplo: O sistema deve rodar apenas em ambiente web.]
+2. Orçamentárias:
+   - [Exemplo: Orçamento máximo de R$ 10.000,00.]
+3. Prazo:
+   - [Exemplo: Entrega até 30/09/2024.]
+4. Escopo:
+   - [Exemplo: Não inclui integração com sistemas legados.]
+5. Outras:
+   - [Exemplo: O uso de IA está restrito a sugestões.] 

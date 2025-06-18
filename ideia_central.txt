@@ -1,0 +1,7 @@
+IDEIA CENTRAL / OBJETIVO PRINCIPAL
+
+[Descreva aqui, de forma clara e resumida, o objetivo maior do seu projeto. Exemplo:]
+
+Desenvolver uma plataforma colaborativa para registro, discussão e evolução de ideias de software, com apoio de IA, garantindo continuidade, histórico e fácil consulta de decisões.
+
+Este objetivo deve guiar todas as decisões e discussões do projeto. 

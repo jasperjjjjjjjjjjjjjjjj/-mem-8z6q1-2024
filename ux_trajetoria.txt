@@ -1,0 +1,19 @@
+MAPEAMENTO DE TRAJETÓRIA UX
+
+Visão geral:
+- [Descreva o objetivo da experiência do usuário, ex: “Facilitar o registro e acompanhamento de ideias de software de forma intuitiva e colaborativa.”]
+
+Fluxos principais:
+1. Cadastro e login do usuário
+   - [Descreva o caminho: tela inicial → cadastro → confirmação → dashboard]
+2. Registro de nova ideia
+   - [Exemplo: dashboard → botão "Nova Ideia" → formulário → salvar → lista de ideias]
+3. Consulta e discussão de ideias
+   - [Exemplo: dashboard → lista de ideias → selecionar ideia → visualizar detalhes → comentar/discutir]
+
+Pontos de atenção:
+- [Exemplo: "A navegação deve ser simples, com no máximo 3 cliques para qualquer ação principal."]
+- [Exemplo: "O usuário deve sempre saber em que etapa do fluxo está."]
+
+Atualizações:
+- [Sempre que houver uma mudança relevante, registre a data, o que mudou e o motivo.] 

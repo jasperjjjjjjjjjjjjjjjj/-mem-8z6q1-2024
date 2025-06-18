@@ -1,0 +1,10 @@
+TRADE-OFFS E RESOLUÇÃO DE CONFLITOS UX x LIMITAÇÕES
+
+[DATA] Conflito identificado:
+- Descrição:
+- Elementos em conflito:
+- Classificação MoSCoW:
+- Impacto relativo:
+- Decisão:
+- Racional:
+--- 

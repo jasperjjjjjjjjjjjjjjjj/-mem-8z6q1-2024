@@ -1,0 +1,7 @@
+RESUMOS DE DISCUSSÕES IMPORTANTES
+
+[DATA] Tema: [Assunto da discussão]
+Participantes: [Quem participou]
+Resumo: [Resumo dos principais pontos debatidos]
+Conclusão: [Se houve alguma conclusão ou encaminhamento]
+--- 

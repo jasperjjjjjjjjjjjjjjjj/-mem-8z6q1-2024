@@ -1,0 +1,6 @@
+DECISÕES DO PROJETO
+
+[DATA] Decisão: [Descreva a decisão tomada]
+Motivo: [Explique o porquê]
+Contexto: [Explique o contexto da decisão, quem participou, alternativas consideradas]
+--- 

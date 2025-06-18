@@ -1,0 +1,26 @@
+INSTRUÇÕES DE USO DO MEMORY BANK
+
+Ordem de leitura e execução:
+1. ideia_central.txt — Objetivo principal do projeto
+2. objetivos_smart.txt — Metas claras e mensuráveis
+3. ux_trajetoria.txt — Blueprint da experiência do usuário
+4. limitacoes.txt — Restrições técnicas, orçamentárias, etc.
+5. prioridades.txt — O que deve ser implementado primeiro
+6. sequencia_implementacao.txt — Passo a passo de desenvolvimento
+7. contextos/ — Função e limites de cada IA/membro
+8. decisoes.txt — Registro de decisões tomadas
+9. discussoes.txt — Resumos de discussões importantes
+10. ideias.txt — Ideias e sugestões em aberto
+11. duvidas.txt — Dúvidas recorrentes e respostas
+12. status_atual.txt — Acompanhamento do progresso
+13. tradeoffs.txt — Registro de trade-offs e conflitos UX x limitações
+
+Função de cada arquivo:
+- Cada arquivo contém um modelo inicial e deve ser atualizado conforme o projeto avança.
+- Use a ordem acima para navegar e consultar informações.
+- Sempre registre decisões, discussões, ideias e dúvidas nos arquivos correspondentes.
+- Em caso de conflito entre UX e limitações, registre a análise e decisão em tradeoffs.txt.
+
+Dicas:
+- Mantenha todos os arquivos atualizados para garantir alinhamento e rastreabilidade.
+- Consulte este arquivo sempre que houver dúvida sobre o fluxo ou a função de cada documento. 

@@ -1,0 +1,6 @@
+DÚVIDAS RECORRENTES
+
+[DATA] Dúvida: [Descreva a dúvida]
+Resposta: [Se já houver resposta, coloque aqui]
+Status: [Aberta, respondida, pendente]
+--- 

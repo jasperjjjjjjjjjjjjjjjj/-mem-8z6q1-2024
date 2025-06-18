@@ -1,0 +1,16 @@
+SEQUÊNCIA DE IMPLEMENTAÇÃO DO PROJETO
+
+1. Definição clara de objetivos
+   - Realizada pelo assistente planejador (líder IA), utilizando metodologia SMART e consulta ao Memory Bank.
+
+2. Estabelecimento de escopo detalhado
+   - Delimitação do que será (e não será) entregue, com base nos objetivos e limitações.
+
+3. Validação da arquitetura técnica
+   - Análise e escolha da arquitetura mais adequada, considerando escopo, limitações e objetivos.
+
+4. Criação de especificações contextuais para cada assistente especializado
+   - Geração dos arquivos Context.md para cada IA, detalhando responsabilidades, limites e padrões.
+
+Observação:
+Cada etapa deve ser validada antes de avançar para a próxima, garantindo alinhamento estratégico e técnico em todo o projeto. 

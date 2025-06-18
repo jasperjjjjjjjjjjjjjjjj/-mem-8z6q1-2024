@@ -1,0 +1,6 @@
+IDEIAS E SUGESTÕES
+
+[DATA] Ideia: [Descreva a ideia]
+Detalhes: [Explique melhor a ideia]
+Status: [Em análise, aprovada, descartada, etc.]
+--- 

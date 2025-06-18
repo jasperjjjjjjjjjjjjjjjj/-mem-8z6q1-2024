@@ -1,0 +1,17 @@
+PRIORIDADES DO PROJETO
+
+1. Funcionalidades Essenciais (Must Have)
+   - [Exemplo: Cadastro de usuários]
+   - [Exemplo: Registro e consulta de ideias]
+   - [Exemplo: Sistema de login]
+
+2. Funcionalidades Desejáveis (Should Have)
+   - [Exemplo: Integração com IA para sugestões automáticas]
+   - [Exemplo: Sistema de comentários]
+
+3. Funcionalidades Opcionais (Could Have)
+   - [Exemplo: Dark mode]
+   - [Exemplo: Exportação de dados para CSV]
+
+Observação:
+Funcionalidades essenciais devem ser entregues primeiro. As desejáveis entram no planejamento após as essenciais. As opcionais só serão implementadas se houver tempo e recursos. 

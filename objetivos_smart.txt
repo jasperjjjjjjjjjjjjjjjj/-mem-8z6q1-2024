@@ -1,0 +1,11 @@
+OBJETIVOS SMART DO PROJETO
+
+- Específico: [Descreva claramente o que deve ser alcançado]
+- Mensurável: [Como saberemos que foi alcançado? Quais indicadores quantitativos?]
+- Alcançável: [É realista? Quais recursos estão disponíveis?]
+- Relevante: [Por que é importante para o projeto?]
+- Temporal: [Qual o prazo para atingir?]
+
+Indicadores de sucesso: [Exemplo: "Atingir 100 usuários ativos em 3 meses"]
+Marcos intermediários: [Exemplo: "Protótipo funcional até 15/07", "Primeiro teste com usuários até 01/08"]
+Critérios de aceitação: [Exemplo: "Funcionalidade X implementada e validada por 3 usuários"] 
